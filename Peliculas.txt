@@ -3,3 +3,5 @@ PELICULAS
 	1 - Seven.
 	2 - In Time.
 	3 - Piratas del caribe.
+	4 - El señor de los anillos.
+	5 - Hannibal.
